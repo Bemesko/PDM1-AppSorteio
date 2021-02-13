@@ -15,3 +15,4 @@ O usuário pode digitar dois números nos campos que aparecerem na tela e o apli
 - Como colocar projetos do Android Studio em controle de versão (bem fácil porque a maior parte do trabalho ele já fez pra mim!);
 
 ### Print do App
+![Print do App](https://i.imgur.com/tEgj8sw.png)
